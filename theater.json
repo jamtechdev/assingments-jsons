@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Majestic Theater",
+    "ratings": 4.5,
+    "seats": 200,
+    "audi": "Audi 1",
+    "location": "123 Main Street, Cityville",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNOGBuZbygxATfs9k_OvKp9YxgryfhGE3A27txWtqDhdCywgrlX1g1SZhrelj",
+    "ticket_price": "$12.50",
+    "show_times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"],
+    "nearest_transport": "Cityville Metro Station"
+  },
+  {
+    "name": "Regal Cinema",
+    "ratings": 4.2,
+    "seats": 150,
+    "audi": "Audi 2",
+    "location": "456 Elm Street, Townsville",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxJ2I-hf3x3RnQRiBFEQthBj81xA1qU28dQZ1KBRQF6WezVb9qxKa428zb5u_-",
+    "ticket_price": "$10.00",
+    "show_times": ["1:00 PM", "4:00 PM", "7:00 PM", "10:00 PM"],
+    "nearest_transport": "Townsville Bus Stop"
+  },
+  {
+    "name": "CineMagic",
+    "ratings": 4.7,
+    "seats": 180,
+    "audi": "Audi 3",
+    "location": "789 Oak Avenue, Villagetown",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNAQT0NVm9dpLXyne4WRHo_3_PGs4OrIpo0yWmxi1xL4ri9u_NNIDzOzAKm3J3",
+    "ticket_price": "$11.00",
+    "show_times": ["12:30 PM", "3:30 PM", "6:30 PM", "9:30 PM"],
+    "nearest_transport": "Villagetown Train Station"
+  },
+  {
+    "name": "Golden Theater",
+    "ratings": 4.0,
+    "seats": 170,
+    "audi": "Audi 4",
+    "location": "101 Pine Road, Hamletville",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC8jda1MFgE4koSb1xUv-nSQ4-NQTG2SRVp0aAut2hFRWNpWJA4y_PgYYqLZj",
+    "ticket_price": "$9.50",
+    "show_times": ["1:30 PM", "4:30 PM", "7:30 PM", "10:30 PM"],
+    "nearest_transport": "Hamletville Bus Station"
+  },
+  {
+    "name": "Palace Cinema",
+    "ratings": 4.8,
+    "seats": 220,
+    "audi": "Audi 5",
+    "location": "202 Maple Lane, Suburbia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB7GB8XTJDAEDz9qFjZzQSuikOttSHu2F3i5cCrL2adaSR5M9kS104Q34s4QoM",
+    "ticket_price": "$11.50",
+    "show_times": ["12:45 PM", "3:45 PM", "6:45 PM", "9:45 PM"],
+    "nearest_transport": "Suburbia Metro Stop"
+  },
+  {
+    "name": "Starlight Theater",
+    "ratings": 4.3,
+    "seats": 190,
+    "audi": "Audi 6",
+    "location": "303 Cedar Street, Countryside",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnTBIaupRHY9LN5deZ5Ra7aUG8uranO-3HvZXxcylNK2oevW-G_tAnQlgsg690",
+    "ticket_price": "$10.50",
+    "show_times": ["1:45 PM", "4:45 PM", "7:45 PM", "10:45 PM"],
+    "nearest_transport": "Countryside Bus Terminal"
+  },
+  {
+    "name": "Royal Cinema",
+    "ratings": 4.6,
+    "seats": 210,
+    "audi": "Audi 7",
+    "location": "404 Walnut Drive, Riverside",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ltzxMCM7BMLvqdLNGcdOKqJqPilB7AfOc3g8YKF2wu8_1NWRyKmNFbNhSaMF",
+    "ticket_price": "$12.00",
+    "show_times": ["1:15 PM", "4:15 PM", "7:15 PM", "10:15 PM"],
+    "nearest_transport": "Riverside Metro Station"
+  },
+  {
+    "name": "Grand Theater",
+    "ratings": 4.4,
+    "seats": 160,
+    "audi": "Audi 8",
+    "location": "505 Birch Boulevard, Lakeside",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWBqyHc8DBf29_1tgRJWqKe-PQ_9P-yYbNqGV0XrUMPyXEgcpgbrLKG8tKXimR",
+    "ticket_price": "$10.75",
+    "show_times": ["12:15 PM", "3:15 PM", "6:15 PM", "9:15 PM"],
+    "nearest_transport": "Lakeside Bus Stop"
+  },
+  {
+    "name": "Prestige Cinema",
+    "ratings": 4.1,
+    "seats": 175,
+    "audi": "Audi 9",
+    "location": "606 Chestnut Court, Oceanview",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtCu0WST5dxDzVOKV6cVlJFzPNlCnW4dgN12hgm1klrHudjLrkrMQgMRXyzFY",
+    "ticket_price": "$10.25",
+    "show_times": ["1:20 PM", "4:20 PM", "7:20 PM", "10:20 PM"],
+    "nearest_transport": "Oceanview Train Station"
+  },
+  {
+    "name": "City Cinema",
+    "ratings": 4.9,
+    "seats": 230,
+    "audi": "Audi 10",
+    "location": "707 Spruce Avenue, Mountainview",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLcwuyJY-cyi7Gt9RMg0guBXrAvN-Kn4ASCczmS8bAFCJJbmlbs9Mlv1UJ5Xu0",
+    "ticket_price": "$13.00",
+    "show_times": ["1:10 PM", "4:10 PM", "7:10 PM", "10:10 PM"],
+    "nearest_transport": "Mountainview Bus Terminal"
+  },
+  {
+    "name": "Vista Theater",
+    "ratings": 4.2,
+    "seats": 165,
+    "audi": "Audi 11",
+    "location": "808 Poplar Lane, Hillside",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLcwuyJY-cyi7Gt9RMg0guBXrAvN-Kn4ASCczmS8bAFCJJbmlbs9Mlv1UJ5Xu0",
+    "ticket_price": "$10.50",
+    "show_times": ["12:50 PM", "3:50 PM", "6:50 PM", "9:50 PM"],
+    "nearest_transport": "Hillside Metro Station"
+  },
+  {
+    "name": "Olympic Cinema",
+    "ratings": 4.7,
+    "seats": 185,
+    "audi": "Audi 12",
+    "location": "909 Pinecrest Drive, Lakeshore",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB7GB8XTJDAEDz9qFjZzQSuikOttSHu2F3i5cCrL2adaSR5M9kS104Q34s4QoM",
+    "ticket_price": "$11.75",
+    "show_times": ["12:20 PM", "3:20 PM", "6:20 PM", "9:20 PM"],
+    "nearest_transport": "Lakeshore Bus Stop"
+  },
+  {
+    "name": "Starlight Cinema",
+    "ratings": 4.5,
+    "seats": 200,
+    "audi": "Audi 1",
+    "location": "123 Main Street, Cityville",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNOGBuZbygxATfs9k_OvKp9YxgryfhGE3A27txWtqDhdCywgrlX1g1SZhrelj",
+    "ticket_price": "$12.50",
+    "show_times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"],
+    "nearest_transport": "Cityville Metro Station"
+  },
+  {
+    "name": "Sunrise Cinema",
+    "ratings": 4.7,
+    "seats": 180,
+    "audi": "Audi 3",
+    "location": "789 Oak Avenue, Villagetown",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLcwuyJY-cyi7Gt9RMg0guBXrAvN-Kn4ASCczmS8bAFCJJbmlbs9Mlv1UJ5Xu0",
+    "ticket_price": "$11.00",
+    "show_times": ["12:30 PM", "3:30 PM", "6:30 PM", "9:30 PM"],
+    "nearest_transport": "Villagetown Train Station"
+  },
+  {
+    "name": "Emerald Theater",
+    "ratings": 4.0,
+    "seats": 170,
+    "audi": "Audi 4",
+    "location": "101 Pine Road, Hamletville",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNAQT0NVm9dpLXyne4WRHo_3_PGs4OrIpo0yWmxi1xL4ri9u_NNIDzOzAKm3J3",
+    "ticket_price": "$9.50",
+    "show_times": ["1:30 PM", "4:30 PM", "7:30 PM", "10:30 PM"],
+    "nearest_transport": "Hamletville Bus Station"
+  },
+  {
+    "name": "Opal Cinema",
+    "ratings": 4.9,
+    "seats": 230,
+    "audi": "Audi 10",
+    "location": "707 Spruce Avenue, Mountainview",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLcwuyJY-cyi7Gt9RMg0guBXrAvN-Kn4ASCczmS8bAFCJJbmlbs9Mlv1UJ5Xu0",
+    "ticket_price": "$13.00",
+    "show_times": ["1:10 PM", "4:10 PM", "7:10 PM", "10:10 PM"],
+    "nearest_transport": "Mountainview Bus Terminal"
+  },
+  {
+    "name": "Diamond Theater",
+    "ratings": 4.1,
+    "seats": 175,
+    "audi": "Audi 9",
+    "location": "606 Chestnut Court, Oceanview",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtCu0WST5dxDzVOKV6cVlJFzPNlCnW4dgN12hgm1klrHudjLrkrMQgMRXyzFY",
+    "ticket_price": "$10.25",
+    "show_times": ["1:20 PM", "4:20 PM", "7:20 PM", "10:20 PM"],
+    "nearest_transport": "Oceanview Train Station"
+  },
+  {
+    "name": "Ruby Cinema",
+    "ratings": 4.4,
+    "seats": 160,
+    "audi": "Audi 8",
+    "location": "505 Birch Boulevard, Lakeside",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLcwuyJY-cyi7Gt9RMg0guBXrAvN-Kn4ASCczmS8bAFCJJbmlbs9Mlv1UJ5Xu0",
+    "ticket_price": "$10.75",
+    "show_times": ["12:15 PM", "3:15 PM", "6:15 PM", "9:15 PM"],
+    "nearest_transport": "Lakeside Bus Stop"
+  },
+  {
+    "name": "Pearl Theater",
+    "ratings": 4.6,
+    "seats": 210,
+    "audi": "Audi 7",
+    "location": "404 Walnut Drive, Riverside",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnTBIaupRHY9LN5deZ5Ra7aUG8uranO-3HvZXxcylNK2oevW-G_tAnQlgsg690",
+    "ticket_price": "$12.00",
+    "show_times": ["1:15 PM", "4:15 PM", "7:15 PM", "10:15 PM"],
+    "nearest_transport": "Riverside Metro Station"
+  }
+]
